@@ -1,0 +1,15 @@
+.git
+.gitignore
+.DS_Store
+svn-exclude.txt
+sync-to-svn.sh
+assets/node_modules
+frontend/exclude-files.txt
+frontend/node_modules
+frontend/.npmrc
+frontend/.nvmrc
+frontend/.eslintrc
+frontend/package.json
+frontend/yarn.lock
+frontend/.prettierrc
+frontend/README.md

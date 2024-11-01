@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bytbil Accesspaket\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/access-package-"
+"integration\n"
+"POT-Creation-Date: 2022-02-04T07:40:23+00:00\n"
+"PO-Revision-Date: 2022-02-04 08:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Svenska\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#. Plugin Name of the plugin
+msgid "Bytbil Accesspaket"
+msgstr "BytBil accesspaket"
+
+#. Description of the plugin
+msgid "Plugin för att visa bilar till salu."
+msgstr "Plugin för att visa bilar till salu."
+
+#. Author of the plugin
+msgid "Triggerfish AB"
+msgstr "Triggerfish AB"
+
+#. Author URI of the plugin
+msgid "https://www.triggerfish.se"
+msgstr "https://www.triggerfish.se"
+
+#: car/car-filters.php:24
+msgid "Car archive"
+msgstr "Bilarkiv"
+
+#: classes/class-car.php:74
+msgid "Car"
+msgstr "Bil"
+
+#: classes/class-car.php:121
+msgid "Transport cars"
+msgstr "Transportbilar"
+
+#: classes/class-car.php:143
+msgid "Trailers"
+msgstr "Släpvagnar"
+
+#: classes/class-car.php:165
+msgid "Camper"
+msgstr "Husbil"
+
+#: classes/class-car.php:192
+msgid "Caravan"
+msgstr "Husvagn"
+
+#: classes/class-car.php:214
+msgid "Motorcycle"
+msgstr "Motorcykel"
+
+#: classes/class-descriptions.php:11 filter-fields/class-brand.php:13
+#: filter-fields/class-brand.php:14
+#: templates/single-page-parts/model-information.php:63
+msgid "Brand"
+msgstr "Märke"
+
+#: classes/class-descriptions.php:12 classes/class-metabox.php:376
+#: filter-fields/class-model.php:13 filter-fields/class-model.php:14
+#: templates/single-page-parts/model-information.php:70
+msgid "Model"
+msgstr "Modell"
+
+#: classes/class-descriptions.php:13
+msgid "Version"
+msgstr "Version"
+
+#: classes/class-descriptions.php:14 filter-fields/class-year.php:11
+#: filter-fields/class-year.php:12
+msgid "Year"
+msgstr "År"
+
+#: classes/class-descriptions.php:15
+msgid "Mile"
+msgstr "Miltal"
+
+#: classes/class-descriptions.php:16 filter-fields/class-price.php:15
+#: filter-fields/class-price.php:16
+msgid "Price"
+msgstr "Pris"
+
+#: classes/class-descriptions.php:17
+msgid "Price Ex.moms"
+msgstr "Pris exkl. moms"
+
+#: classes/class-descriptions.php:18
+msgid "Reduced price"
+msgstr "Nedsatt pris"
+
+#: classes/class-descriptions.php:19 filter-fields/class-fuel.php:13
+#: filter-fields/class-fuel.php:14
+#: templates/single-page-parts/model-information.php:35
+msgid "Fuel"
+msgstr "Bränsle"
+
+#: classes/class-descriptions.php:20
+msgid "Gearbox"
+msgstr "Växellåda"
+
+#: classes/class-descriptions.php:21 filter-fields/class-color.php:13
+#: filter-fields/class-color.php:14
+#: templates/single-page-parts/model-information.php:56
+msgid "Color"
+msgstr "Färg"
+
+#: classes/class-descriptions.php:22
+msgid "Location"
+msgstr "Plats"
+
+#: classes/class-descriptions.php:23
+msgid "Body type"
+msgstr "Fordonstyp"
+
+#: classes/class-descriptions.php:24
+msgid "Warranty program"
+msgstr "Garantiprogram"
+
+#: classes/class-descriptions.php:25
+msgid "Total weight"
+msgstr "Totalvikt"
+
+#: classes/class-hero.php:11
+msgid "Hero image"
+msgstr "Herobild"
+
+#: classes/class-metabox.php:31
+msgid "Archive Filter"
+msgstr "Arkivfilter"
+
+#: classes/class-metabox.php:40
+msgid "Content before car archive"
+msgstr "Innehåll före bilarkivet"
+
+#: classes/class-metabox.php:83
+msgid "Show 4 latest cars"
+msgstr "Visa 4 senaste bilarna"
+
+#: classes/class-metabox.php:102
+msgid "Hide hero and all filters"
+msgstr "Dölj alla filter + hero"
+
+#: classes/class-metabox.php:162
+msgid "Custom hero title"
+msgstr "Anpassad titel på Hero"
+
+#: classes/class-metabox.php:181
+msgid "Remove hero heading"
+msgstr "Ta bort herorubrik"
+
+#: classes/class-metabox.php:194
+msgid "Min price"
+msgstr "Lägsta pris"
+
+#: classes/class-metabox.php:217
+msgid "Max price"
+msgstr "Högsta pris"
+
+#: classes/class-metabox.php:242
+msgid "Makes"
+msgstr "Märken"
+
+#: classes/class-metabox.php:264 filter-fields/class-dealer.php:13
+#: filter-fields/class-dealer.php:14
+msgid "Dealer"
+msgstr "Anläggning"
+
+#: classes/class-metabox.php:284 filter-fields/class-used.php:12
+#: filter-fields/class-used.php:13
+msgid "New or used"
+msgstr "Ny eller begagnad"
+
+#: classes/class-metabox.php:287
+msgid "New cars"
+msgstr "Nya bilar"
+
+#: classes/class-metabox.php:288
+msgid "Used cars"
+msgstr "Begagnade bilar"
+
+#: classes/class-metabox.php:301 filter-fields/class-leasing.php:13
+#: filter-fields/class-leasing.php:14
+msgid "Leasing"
+msgstr "Leasing"
+
+#: classes/class-metabox.php:304 filter-fields/class-leasing.php:28
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/class-metabox.php:305 filter-fields/class-leasing.php:34
+msgid "No"
+msgstr "Nej"
+
+#: classes/class-metabox.php:320 filter-fields/class-city.php:13
+#: filter-fields/class-city.php:14
+msgid "City"
+msgstr "Stad"
+
+#: classes/class-metabox.php:347
+msgid "Car type"
+msgstr "Fordonstyp"
+
+#: classes/class-settings.php:58 classes/class-settings.php:59
+msgid "Access package"
+msgstr "Accesspaket"
+
+#: filter-fields/class-beds.php:13
+msgid "Number of beds"
+msgstr "Antal sängar"
+
+#: filter-fields/class-beds.php:14
+msgid "Number of beds (caravan and campers only)"
+msgstr "Antal sängar (endast husbil och husvagn)"
+
+#: filter-fields/class-beds.php:18
+msgid "Select number of beds"
+msgstr "Välj antal sängar"
+
+#: filter-fields/class-brand.php:18
+msgid "Select brand"
+msgstr "Välj märke"
+
+#: filter-fields/class-city.php:18
+msgid "Select city"
+msgstr "Välj stad"
+
+#: filter-fields/class-color.php:18
+msgid "Select color"
+msgstr "Välj färg"
+
+#: filter-fields/class-dealer.php:18
+msgid "Select dealer"
+msgstr "Välj anläggning"
+
+#: filter-fields/class-fourwheeldrive.php:11
+#: filter-fields/class-fourwheeldrive.php:12
+msgid "Four wheel drive"
+msgstr "Fyrhjulsdrift"
+
+#: filter-fields/class-fuel.php:18
+msgid "Select fuel"
+msgstr "Välj bränsle"
+
+#: filter-fields/class-gearbox.php:13 filter-fields/class-gearbox.php:14
+msgid "Gear box"
+msgstr "Växellåda"
+
+#: filter-fields/class-gearbox.php:18
+msgid "Select gearbox"
+msgstr "Välj växellåda"
+
+#: filter-fields/class-has-image.php:11 filter-fields/class-has-image.php:12
+msgid "Only images"
+msgstr "Endast med bild"
+
+#: filter-fields/class-leasing.php:18
+msgid "Select leasing"
+msgstr "Välj leasing"
+
+#: filter-fields/class-leasing.php:22
+msgid "All cars"
+msgstr "Alla bilar"
+
+#: filter-fields/class-length.php:13
+msgid "Length of vehicle"
+msgstr "Fordonslängd"
+
+#: filter-fields/class-length.php:14
+msgid "Length of vehicle (caravan and campers only)"
+msgstr "Fordonslängd (endast husvagn och husbil)"
+
+#: filter-fields/class-length.php:18
+msgid "Select length of vehicle"
+msgstr "Välj fordonslängd"
+
+#: filter-fields/class-mileage.php:13 filter-fields/class-mileage.php:14
+msgid "Mileage"
+msgstr "Miltal"
+
+#: filter-fields/class-mileage.php:18
+msgid "Select mileage"
+msgstr "Välj miltal"
+
+#: filter-fields/class-model.php:18
+msgid "Select model"
+msgstr "Välj modell"
+
+#: filter-fields/class-price.php:20
+msgid "Select price"
+msgstr "Välj pris"
+
+#: filter-fields/class-sort.php:11 filter-fields/class-sort.php:12
+msgid "Sort"
+msgstr "Sortera"
+
+#: filter-fields/class-sort.php:16
+msgid "Select sort"
+msgstr "Välj sortering"
+
+#: filter-fields/class-sort.php:20
+msgid "Arrivals"
+msgstr "Inkommande"
+
+#: filter-fields/class-sort.php:25
+msgid "Last 24 hours"
+msgstr "24 senaste timmarna"
+
+#: filter-fields/class-sort.php:29
+msgid "Last 48 hours"
+msgstr "48 senaste timmarna"
+
+#: filter-fields/class-sort.php:33
+msgid "Last week"
+msgstr "Senaste veckan"
+
+#: filter-fields/class-towbar.php:11 filter-fields/class-towbar.php:12
+msgid "Towbar"
+msgstr "Dragkrok"
+
+#: filter-fields/class-type.php:32 filter-fields/class-type.php:33
+msgid "Vehicle type"
+msgstr "Fordonstyp"
+
+#: filter-fields/class-type.php:37
+msgid "Select type"
+msgstr "Välj typ"
+
+#: filter-fields/class-used.php:17
+msgid "Select used"
+msgstr "Välj ny eller begagnad"
+
+#: filter-fields/class-used.php:21
+msgid "New and used"
+msgstr "Ny och begagnad"
+
+#: filter-fields/class-used.php:27
+msgid "New"
+msgstr "Ny"
+
+#: filter-fields/class-used.php:33
+msgid "Old"
+msgstr "Begagnad"
+
+#: filter-fields/class-year.php:16
+msgid "Select year"
+msgstr "Välj år"
+
+#: templates/options-page.php:9
+msgid "BytBil access package"
+msgstr "BytBil accesspaket"
+
+#: templates/options-page.php:11
+msgid "API settings"
+msgstr "API-inställningar"
+
+#: templates/options-page.php:15
+msgid "General"
+msgstr "Allmänt"
+
+#: templates/options-page.php:16
+msgid "Filters"
+msgstr "Filter"
+
+#: templates/options-page.php:17
+msgid "Theming"
+msgstr "Tema"
+
+#: templates/options-page.php:18
+msgid "Description"
+msgstr "Beskrivning"
+
+#: templates/options-page.php:19
+msgid "Mail"
+msgstr "Mail"
+
+#: templates/options-page.php:20
+msgid "DNB"
+msgstr "DNB"
+
+#: templates/options-page.php:24
+msgid "Single car view"
+msgstr "Vy för enskild bil"
+
+#: templates/single-page-parts/finance-data.php:69
+msgid "From %s kr/mon"
+msgstr "Från %s kr/mån"
+
+#: templates/single-page-parts/finance-data.php:88
+msgid "Buy online"
+msgstr "Köp online"
+
+#: templates/single-page-parts/finance-data.php:103
+msgid "Phone: %s"
+msgstr "Telefon: %s"
+
+#: templates/single-page-parts/finance-data.php:118
+#: templates/single-page-parts/finance-data.php:126
+msgid "Email us"
+msgstr "Maila oss"
+
+#: templates/single-page-parts/finance-data.php:136
+msgid "Directions"
+msgstr "Vägbeskrivning"
+
+#: templates/single-page-parts/finance-data.php:142
+msgid "Address: %s, %s %s"
+msgstr "Adress: %s, %s %s"
+
+#: templates/single-page-parts/finance-data.php:153
+msgid "Financing"
+msgstr "Finansering"
+
+#: templates/single-page-parts/finance-data.php:156
+#: templates/single-page-parts/finance-data.php:187
+msgid "Down payment"
+msgstr "Handpenning"
+
+#: templates/single-page-parts/finance-data.php:161
+#: templates/single-page-parts/finance-data.php:183
+#: templates/single-page-parts/finance-data.php:191
+#: templates/single-page-parts/finance-data.php:207
+#: templates/single-page-parts/finance-data.php:231
+#: templates/single-page-parts/finance-data.php:239
+msgid "kr"
+msgstr "kr"
+
+#: templates/single-page-parts/finance-data.php:165
+#: templates/single-page-parts/finance-data.php:195
+msgid "Payback"
+msgstr "Återbetalning"
+
+#: templates/single-page-parts/finance-data.php:168
+#: templates/single-page-parts/finance-data.php:199
+msgid "mån"
+msgstr "mån"
+
+#: templates/single-page-parts/finance-data.php:172
+#: templates/single-page-parts/finance-data.php:203
+msgid "Residual"
+msgstr "Restskuld"
+
+#: templates/single-page-parts/finance-data.php:179
+msgid "Monthly cost"
+msgstr "Månadskostnad"
+
+#: templates/single-page-parts/finance-data.php:211
+msgid "Interest"
+msgstr "Ränta"
+
+#: templates/single-page-parts/finance-data.php:219
+msgid "Effective interest rate"
+msgstr "Effektiv ränta"
+
+#: templates/single-page-parts/finance-data.php:227
+msgid "Arrangement fee"
+msgstr "Uppläggningsavgift"
+
+#: templates/single-page-parts/finance-data.php:235
+msgid "Administration fee"
+msgstr "Aviavgift"
+
+#: templates/single-page-parts/model-information.php:9
+msgid "Model information"
+msgstr "Modellinformation"
+
+#: templates/single-page-parts/model-information.php:14
+msgid "Reg.nr"
+msgstr "Reg. nr"
+
+#: templates/single-page-parts/model-information.php:21
+msgid "Milage"
+msgstr "Miltal"
+
+#: templates/single-page-parts/model-information.php:28
+msgid "Vehicle Type"
+msgstr "Fordonstyp"
+
+#: templates/single-page-parts/model-information.php:42
+msgid "Gear Box"
+msgstr "Växellåda"
+
+#: templates/single-page-parts/model-information.php:49
+msgid "Model Year"
+msgstr "Årsmodell"
+
+#: templates/single-page-parts/model-information.php:77
+msgid "CC"
+msgstr "Motorvolym"
+
+#: templates/single-page-parts/model-information.php:84
+msgid "Equipment"
+msgstr "Utrustning"
+
+#: templates/single-page-parts/single-car-navigation.php:17
+msgid "Back"
+msgstr "Tillbaka"
+
+#: templates/single-page-parts/single-car-navigation.php:24
+msgid "Share"
+msgstr "Dela"
+
+#: templates/single-page-parts/single-car-navigation.php:39
+msgid "Print"
+msgstr "Skriv ut"
+
+#: templates/tabs/description-settings.php:9
+msgid "Descriptions to show"
+msgstr "Fordonsbeskrivningar som visas"
+
+#: templates/tabs/description-settings.php:10
+msgid ""
+"The checked descriptions will be shown in each of the car cards displayed in "
+"the archive feed."
+msgstr ""
+"De ikryssade beskrivningarna kommer att visas på varje bil-kort när det syns "
+"i arkivet."
+
+#: templates/tabs/dnb-settings.php:7
+msgid "DNB settings"
+msgstr "DNB-inställningar"
+
+#: templates/tabs/dnb-settings.php:11
+msgid "Activate DNB integration"
+msgstr "Aktivera DNB-integration"
+
+#: templates/tabs/dnb-settings.php:22
+msgid "DNB Dealer ID"
+msgstr "DNB Dealer-ID"
+
+#: templates/tabs/filter-settings.php:11
+msgid "Filters to show"
+msgstr "Filtreringar som visas"
+
+#: templates/tabs/filter-settings.php:38
+msgid "You can drag and drop the filters to get the order that you want."
+msgstr "Du kan dra och släppa filtren i den ordning som du själv önskar."
+
+#: templates/tabs/filter-settings.php:47
+msgid "Name"
+msgstr "Namn"
+
+#: templates/tabs/filter-settings.php:48
+msgid "Show filter?"
+msgstr "Visa filtret?"
+
+#: templates/tabs/filter-settings.php:49
+msgid "Position"
+msgstr "Position"
+
+#: templates/tabs/filter-settings.php:69
+msgid "Max visible filters in mobile"
+msgstr "Max antal synliga filter i mobilen"
+
+#: templates/tabs/filter-settings.php:75
+msgid "Max visible filters in desktop"
+msgstr "Max antal synliga filter på desktop"
+
+#: templates/tabs/general-settings.php:9
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+#: templates/tabs/general-settings.php:12
+msgid "JSON file"
+msgstr "JSON-fil"
+
+#: templates/tabs/general-settings.php:23
+msgid "Token"
+msgstr "Token"
+
+#: templates/tabs/mail-settings.php:7
+msgid "Mail settings"
+msgstr "Mailinställningar"
+
+#: templates/tabs/mail-settings.php:11
+msgid "Scroll to content after car on click on \"Mail\""
+msgstr "Scrolla till block efter bilen vid klick på \"Mail\""
+
+#: templates/tabs/mail-settings.php:18
+msgid "Show form for \"Intresseanmälan\""
+msgstr "Visa formulär för \"Intresseanmälan\""
+
+#: templates/tabs/mail-settings.php:25
+msgid "Thank you message after \"Intresseanmälan\" submit"
+msgstr "Tackmeddelande efter att Intresseanmälan postats"
+
+#: templates/tabs/single-car-settings.php:9
+msgid "Content to show on single car page"
+msgstr "Innehåll att visa på enskild bilsida"
+
+#: templates/tabs/single-car-settings.php:26
+msgid "Custom finanace settings"
+msgstr "Anpassade finansinställningar"
+
+#: templates/tabs/single-car-settings.php:29
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: templates/tabs/single-car-settings.php:40
+#: templates/tabs/theming-settings-fields.php:21
+msgid "Text color"
+msgstr "Textfärg"
+
+#: templates/tabs/single-car-settings.php:51
+msgid "Hide price per month"
+msgstr "Göm pris per månad"
+
+#: templates/tabs/theming-settings-fields.php:5
+msgid "Primary color"
+msgstr "Primärfärg"
+
+#: templates/tabs/theming-settings-fields.php:13
+msgid "Alternative color"
+msgstr "Alternativ färg"
+
+#: templates/tabs/theming-settings-fields.php:29
+msgid "Font family"
+msgstr "Typsnitt"
+
+#: templates/tabs/theming-settings-fields.php:48
+msgid "Use your own theme fonts"
+msgstr "Använd temats egna typsnitt"
+
+#: templates/tabs/theming-settings-fields.php:61
+msgid "Custom Heading"
+msgstr "Anpassad rubrik"
+
+#: templates/tabs/theming-settings-fields.php:68
+msgid "Custom Heading Size"
+msgstr "Anpassad rubrikstorlek"
+
+#: templates/tabs/theming-settings.php:9
+msgid "Theming settings"
+msgstr "Temainställningar"
+
+#: templates/tabs/theming-settings.php:17
+msgid "Hero background image"
+msgstr "Hero-bakgrundsbild"
+
+#: templates/tabs/theming-settings.php:30
+#: templates/tabs/theming-settings.php:71
+msgid "Select an image"
+msgstr "Välj en bild"
+
+#: templates/tabs/theming-settings.php:58
+msgid "Custom fallback image"
+msgstr "Anpassad backupbild"
+
+#: templates/tabs/theming-settings.php:95
+msgid "Visa bilar exklusive moms"
+msgstr "Visa bilar exklusive moms"
+
+#: templates/tabs/theming-settings.php:106
+msgid "Use tight layout for search field and filters"
+msgstr "Använd en smalare layout på sökfält och filter"
+
+#~ msgid "Mopeds"
+#~ msgstr "Mopeder"
+
+#~ msgid ""
+#~ "<strong>Important!</strong> Only 4 filters will be shown in mobile "
+#~ "devices."
+#~ msgstr "<strong>OBS!</strong> Endast 4 filter visas i mobila enheter."
+
+#~ msgid "Show filter under \"more filters\"?"
+#~ msgstr "Visa filtret under \"Fler filter\"?"

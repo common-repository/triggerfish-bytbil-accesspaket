@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-128x128</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-128x128" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F63072" x="0" y="0" width="128" height="128"></rect>
+        <g id="Icon-web-strategy" transform="translate(25.000000, 25.000000)">
+            <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="0" y="0" width="78" height="78"></rect>
+            <rect id="Rectangle-Copy-6" fill="#F63072" x="0" y="10" width="78" height="3"></rect>
+            <rect id="Rectangle-Copy-10" fill="#F63072" x="5" y="20" width="12" height="3"></rect>
+            <rect id="Rectangle-Copy-15" fill="#F63072" x="61" y="20" width="12" height="3"></rect>
+            <rect id="Rectangle-Copy-19" fill="#F63072" x="33" y="70" width="12" height="3"></rect>
+            <rect id="Rectangle-Copy-11" fill="#F63072" x="28" y="20" width="4" height="3"></rect>
+            <rect id="Rectangle-Copy-12" fill="#F63072" x="34" y="20" width="4" height="3"></rect>
+            <rect id="Rectangle-Copy-13" fill="#F63072" x="40" y="20" width="4" height="3"></rect>
+            <rect id="Rectangle-Copy-14" fill="#F63072" x="46" y="20" width="4" height="3"></rect>
+            <rect id="Rectangle-Copy-7" fill="#F63072" x="5" y="28" width="20" height="16"></rect>
+            <rect id="Rectangle-Copy-8" fill="#F63072" x="29" y="28" width="20" height="16"></rect>
+            <rect id="Rectangle-Copy-9" fill="#F63072" x="53" y="28" width="20" height="16"></rect>
+            <rect id="Rectangle-Copy-18" fill="#F63072" x="5" y="48" width="20" height="16"></rect>
+            <rect id="Rectangle-Copy-17" fill="#F63072" x="29" y="48" width="20" height="16"></rect>
+            <rect id="Rectangle-Copy-16" fill="#F63072" x="53" y="48" width="20" height="16"></rect>
+            <circle id="Oval" fill="#F63072" cx="5" cy="5" r="2"></circle>
+            <circle id="Oval-Copy" fill="#F63072" cx="12" cy="5" r="2"></circle>
+            <circle id="Oval-Copy-2" fill="#F63072" cx="19" cy="5" r="2"></circle>
+        </g>
+    </g>
+</svg>

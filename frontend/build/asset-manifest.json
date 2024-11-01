@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be488498.chunk.css",
+    "main.js": "/static/js/main.f9ee8cdd.chunk.js",
+    "main.js.map": "/static/js/main.f9ee8cdd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fde713ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fde713ff.js.map",
+    "static/css/2.2104d2bf.chunk.css": "/static/css/2.2104d2bf.chunk.css",
+    "static/js/2.5c0cc06c.chunk.js": "/static/js/2.5c0cc06c.chunk.js",
+    "static/js/2.5c0cc06c.chunk.js.map": "/static/js/2.5c0cc06c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b9fa377946fcb1c0a516c970ec3ff2cf.js": "/precache-manifest.b9fa377946fcb1c0a516c970ec3ff2cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2104d2bf.chunk.css.map": "/static/css/2.2104d2bf.chunk.css.map",
+    "static/css/main.be488498.chunk.css.map": "/static/css/main.be488498.chunk.css.map",
+    "static/js/2.5c0cc06c.chunk.js.LICENSE": "/static/js/2.5c0cc06c.chunk.js.LICENSE",
+    "static/media/placeholder.svg": "/static/media/placeholder.3aaa4366.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fde713ff.js",
+    "static/css/2.2104d2bf.chunk.css",
+    "static/js/2.5c0cc06c.chunk.js",
+    "static/css/main.be488498.chunk.css",
+    "static/js/main.f9ee8cdd.chunk.js"
+  ]
+}

@@ -1,0 +1,678 @@
+# Copyright (C) 2022 Triggerfish AB
+# This file is distributed under the same license as the Bytbil Accesspaket plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bytbil Accesspaket 2.3.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/access-package-integration\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-02-04T07:40:23+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: access-package-integration\n"
+
+#. Plugin Name of the plugin
+msgid "Bytbil Accesspaket"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin för att visa bilar till salu."
+msgstr ""
+
+#. Author of the plugin
+msgid "Triggerfish AB"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.triggerfish.se"
+msgstr ""
+
+#: car/car-filters.php:24
+msgid "Car archive"
+msgstr ""
+
+#: classes/class-car.php:74
+msgid "Car"
+msgstr ""
+
+#: classes/class-car.php:121
+msgid "Transport cars"
+msgstr ""
+
+#: classes/class-car.php:143
+msgid "Trailers"
+msgstr ""
+
+#: classes/class-car.php:165
+msgid "Camper"
+msgstr ""
+
+#: classes/class-car.php:192
+msgid "Caravan"
+msgstr ""
+
+#: classes/class-car.php:214
+msgid "Motorcycle"
+msgstr ""
+
+#: classes/class-descriptions.php:11
+#: filter-fields/class-brand.php:13
+#: filter-fields/class-brand.php:14
+#: templates/single-page-parts/model-information.php:63
+msgid "Brand"
+msgstr ""
+
+#: classes/class-descriptions.php:12
+#: classes/class-metabox.php:376
+#: filter-fields/class-model.php:13
+#: filter-fields/class-model.php:14
+#: templates/single-page-parts/model-information.php:70
+msgid "Model"
+msgstr ""
+
+#: classes/class-descriptions.php:13
+msgid "Version"
+msgstr ""
+
+#: classes/class-descriptions.php:14
+#: filter-fields/class-year.php:11
+#: filter-fields/class-year.php:12
+msgid "Year"
+msgstr ""
+
+#: classes/class-descriptions.php:15
+msgid "Mile"
+msgstr ""
+
+#: classes/class-descriptions.php:16
+#: filter-fields/class-price.php:15
+#: filter-fields/class-price.php:16
+msgid "Price"
+msgstr ""
+
+#: classes/class-descriptions.php:17
+msgid "Price Ex.moms"
+msgstr ""
+
+#: classes/class-descriptions.php:18
+msgid "Reduced price"
+msgstr ""
+
+#: classes/class-descriptions.php:19
+#: filter-fields/class-fuel.php:13
+#: filter-fields/class-fuel.php:14
+#: templates/single-page-parts/model-information.php:35
+msgid "Fuel"
+msgstr ""
+
+#: classes/class-descriptions.php:20
+msgid "Gearbox"
+msgstr ""
+
+#: classes/class-descriptions.php:21
+#: filter-fields/class-color.php:13
+#: filter-fields/class-color.php:14
+#: templates/single-page-parts/model-information.php:56
+msgid "Color"
+msgstr ""
+
+#: classes/class-descriptions.php:22
+msgid "Location"
+msgstr ""
+
+#: classes/class-descriptions.php:23
+msgid "Body type"
+msgstr ""
+
+#: classes/class-descriptions.php:24
+msgid "Warranty program"
+msgstr ""
+
+#: classes/class-descriptions.php:25
+msgid "Total weight"
+msgstr ""
+
+#: classes/class-hero.php:11
+msgid "Hero image"
+msgstr ""
+
+#: classes/class-metabox.php:31
+msgid "Archive Filter"
+msgstr ""
+
+#: classes/class-metabox.php:40
+msgid "Content before car archive"
+msgstr ""
+
+#: classes/class-metabox.php:83
+msgid "Show 4 latest cars"
+msgstr ""
+
+#: classes/class-metabox.php:102
+msgid "Hide hero and all filters"
+msgstr ""
+
+#: classes/class-metabox.php:162
+msgid "Custom hero title"
+msgstr ""
+
+#: classes/class-metabox.php:181
+msgid "Remove hero heading"
+msgstr ""
+
+#: classes/class-metabox.php:194
+msgid "Min price"
+msgstr ""
+
+#: classes/class-metabox.php:217
+msgid "Max price"
+msgstr ""
+
+#: classes/class-metabox.php:242
+msgid "Makes"
+msgstr ""
+
+#: classes/class-metabox.php:264
+#: filter-fields/class-dealer.php:13
+#: filter-fields/class-dealer.php:14
+msgid "Dealer"
+msgstr ""
+
+#: classes/class-metabox.php:284
+#: filter-fields/class-used.php:12
+#: filter-fields/class-used.php:13
+msgid "New or used"
+msgstr ""
+
+#: classes/class-metabox.php:287
+msgid "New cars"
+msgstr ""
+
+#: classes/class-metabox.php:288
+msgid "Used cars"
+msgstr ""
+
+#: classes/class-metabox.php:301
+#: filter-fields/class-leasing.php:13
+#: filter-fields/class-leasing.php:14
+msgid "Leasing"
+msgstr ""
+
+#: classes/class-metabox.php:304
+#: filter-fields/class-leasing.php:28
+msgid "Yes"
+msgstr ""
+
+#: classes/class-metabox.php:305
+#: filter-fields/class-leasing.php:34
+msgid "No"
+msgstr ""
+
+#: classes/class-metabox.php:320
+#: filter-fields/class-city.php:13
+#: filter-fields/class-city.php:14
+msgid "City"
+msgstr ""
+
+#: classes/class-metabox.php:347
+msgid "Car type"
+msgstr ""
+
+#: classes/class-settings.php:58
+#: classes/class-settings.php:59
+msgid "Access package"
+msgstr ""
+
+#: filter-fields/class-beds.php:13
+msgid "Number of beds"
+msgstr ""
+
+#: filter-fields/class-beds.php:14
+msgid "Number of beds (caravan and campers only)"
+msgstr ""
+
+#: filter-fields/class-beds.php:18
+msgid "Select number of beds"
+msgstr ""
+
+#: filter-fields/class-brand.php:18
+msgid "Select brand"
+msgstr ""
+
+#: filter-fields/class-city.php:18
+msgid "Select city"
+msgstr ""
+
+#: filter-fields/class-color.php:18
+msgid "Select color"
+msgstr ""
+
+#: filter-fields/class-dealer.php:18
+msgid "Select dealer"
+msgstr ""
+
+#: filter-fields/class-fourwheeldrive.php:11
+#: filter-fields/class-fourwheeldrive.php:12
+msgid "Four wheel drive"
+msgstr ""
+
+#: filter-fields/class-fuel.php:18
+msgid "Select fuel"
+msgstr ""
+
+#: filter-fields/class-gearbox.php:13
+#: filter-fields/class-gearbox.php:14
+msgid "Gear box"
+msgstr ""
+
+#: filter-fields/class-gearbox.php:18
+msgid "Select gearbox"
+msgstr ""
+
+#: filter-fields/class-has-image.php:11
+#: filter-fields/class-has-image.php:12
+msgid "Only images"
+msgstr ""
+
+#: filter-fields/class-leasing.php:18
+msgid "Select leasing"
+msgstr ""
+
+#: filter-fields/class-leasing.php:22
+msgid "All cars"
+msgstr ""
+
+#: filter-fields/class-length.php:13
+msgid "Length of vehicle"
+msgstr ""
+
+#: filter-fields/class-length.php:14
+msgid "Length of vehicle (caravan and campers only)"
+msgstr ""
+
+#: filter-fields/class-length.php:18
+msgid "Select length of vehicle"
+msgstr ""
+
+#: filter-fields/class-mileage.php:13
+#: filter-fields/class-mileage.php:14
+msgid "Mileage"
+msgstr ""
+
+#: filter-fields/class-mileage.php:18
+msgid "Select mileage"
+msgstr ""
+
+#: filter-fields/class-model.php:18
+msgid "Select model"
+msgstr ""
+
+#: filter-fields/class-price.php:20
+msgid "Select price"
+msgstr ""
+
+#: filter-fields/class-sort.php:11
+#: filter-fields/class-sort.php:12
+msgid "Sort"
+msgstr ""
+
+#: filter-fields/class-sort.php:16
+msgid "Select sort"
+msgstr ""
+
+#: filter-fields/class-sort.php:20
+msgid "Arrivals"
+msgstr ""
+
+#: filter-fields/class-sort.php:25
+msgid "Last 24 hours"
+msgstr ""
+
+#: filter-fields/class-sort.php:29
+msgid "Last 48 hours"
+msgstr ""
+
+#: filter-fields/class-sort.php:33
+msgid "Last week"
+msgstr ""
+
+#: filter-fields/class-towbar.php:11
+#: filter-fields/class-towbar.php:12
+msgid "Towbar"
+msgstr ""
+
+#: filter-fields/class-type.php:32
+#: filter-fields/class-type.php:33
+msgid "Vehicle type"
+msgstr ""
+
+#: filter-fields/class-type.php:37
+msgid "Select type"
+msgstr ""
+
+#: filter-fields/class-used.php:17
+msgid "Select used"
+msgstr ""
+
+#: filter-fields/class-used.php:21
+msgid "New and used"
+msgstr ""
+
+#: filter-fields/class-used.php:27
+msgid "New"
+msgstr ""
+
+#: filter-fields/class-used.php:33
+msgid "Old"
+msgstr ""
+
+#: filter-fields/class-year.php:16
+msgid "Select year"
+msgstr ""
+
+#: templates/options-page.php:9
+msgid "BytBil access package"
+msgstr ""
+
+#: templates/options-page.php:11
+msgid "API settings"
+msgstr ""
+
+#: templates/options-page.php:15
+msgid "General"
+msgstr ""
+
+#: templates/options-page.php:16
+msgid "Filters"
+msgstr ""
+
+#: templates/options-page.php:17
+msgid "Theming"
+msgstr ""
+
+#: templates/options-page.php:18
+msgid "Description"
+msgstr ""
+
+#: templates/options-page.php:19
+msgid "Mail"
+msgstr ""
+
+#: templates/options-page.php:20
+msgid "DNB"
+msgstr ""
+
+#: templates/options-page.php:24
+msgid "Single car view"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:69
+msgid "From %s kr/mon"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:88
+msgid "Buy online"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:103
+msgid "Phone: %s"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:118
+#: templates/single-page-parts/finance-data.php:126
+msgid "Email us"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:136
+msgid "Directions"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:142
+msgid "Address: %s, %s %s"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:153
+msgid "Financing"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:156
+#: templates/single-page-parts/finance-data.php:187
+msgid "Down payment"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:161
+#: templates/single-page-parts/finance-data.php:183
+#: templates/single-page-parts/finance-data.php:191
+#: templates/single-page-parts/finance-data.php:207
+#: templates/single-page-parts/finance-data.php:231
+#: templates/single-page-parts/finance-data.php:239
+msgid "kr"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:165
+#: templates/single-page-parts/finance-data.php:195
+msgid "Payback"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:168
+#: templates/single-page-parts/finance-data.php:199
+msgid "mån"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:172
+#: templates/single-page-parts/finance-data.php:203
+msgid "Residual"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:179
+msgid "Monthly cost"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:211
+msgid "Interest"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:219
+msgid "Effective interest rate"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:227
+msgid "Arrangement fee"
+msgstr ""
+
+#: templates/single-page-parts/finance-data.php:235
+msgid "Administration fee"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:9
+msgid "Model information"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:14
+msgid "Reg.nr"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:21
+msgid "Milage"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:28
+msgid "Vehicle Type"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:42
+msgid "Gear Box"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:49
+msgid "Model Year"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:77
+msgid "CC"
+msgstr ""
+
+#: templates/single-page-parts/model-information.php:84
+msgid "Equipment"
+msgstr ""
+
+#: templates/single-page-parts/single-car-navigation.php:17
+msgid "Back"
+msgstr ""
+
+#: templates/single-page-parts/single-car-navigation.php:24
+msgid "Share"
+msgstr ""
+
+#: templates/single-page-parts/single-car-navigation.php:39
+msgid "Print"
+msgstr ""
+
+#: templates/tabs/description-settings.php:9
+msgid "Descriptions to show"
+msgstr ""
+
+#: templates/tabs/description-settings.php:10
+msgid "The checked descriptions will be shown in each of the car cards displayed in the archive feed."
+msgstr ""
+
+#: templates/tabs/dnb-settings.php:7
+msgid "DNB settings"
+msgstr ""
+
+#: templates/tabs/dnb-settings.php:11
+msgid "Activate DNB integration"
+msgstr ""
+
+#: templates/tabs/dnb-settings.php:22
+msgid "DNB Dealer ID"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:11
+msgid "Filters to show"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:38
+msgid "You can drag and drop the filters to get the order that you want."
+msgstr ""
+
+#: templates/tabs/filter-settings.php:47
+msgid "Name"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:48
+msgid "Show filter?"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:49
+msgid "Position"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:69
+msgid "Max visible filters in mobile"
+msgstr ""
+
+#: templates/tabs/filter-settings.php:75
+msgid "Max visible filters in desktop"
+msgstr ""
+
+#: templates/tabs/general-settings.php:9
+msgid "General settings"
+msgstr ""
+
+#: templates/tabs/general-settings.php:12
+msgid "JSON file"
+msgstr ""
+
+#: templates/tabs/general-settings.php:23
+msgid "Token"
+msgstr ""
+
+#: templates/tabs/mail-settings.php:7
+msgid "Mail settings"
+msgstr ""
+
+#: templates/tabs/mail-settings.php:11
+msgid "Scroll to content after car on click on \"Mail\""
+msgstr ""
+
+#: templates/tabs/mail-settings.php:18
+msgid "Show form for \"Intresseanmälan\""
+msgstr ""
+
+#: templates/tabs/mail-settings.php:25
+msgid "Thank you message after \"Intresseanmälan\" submit"
+msgstr ""
+
+#: templates/tabs/single-car-settings.php:9
+msgid "Content to show on single car page"
+msgstr ""
+
+#: templates/tabs/single-car-settings.php:26
+msgid "Custom finanace settings"
+msgstr ""
+
+#: templates/tabs/single-car-settings.php:29
+msgid "Background color"
+msgstr ""
+
+#: templates/tabs/single-car-settings.php:40
+#: templates/tabs/theming-settings-fields.php:21
+msgid "Text color"
+msgstr ""
+
+#: templates/tabs/single-car-settings.php:51
+msgid "Hide price per month"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:5
+msgid "Primary color"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:13
+msgid "Alternative color"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:29
+msgid "Font family"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:48
+msgid "Use your own theme fonts"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:61
+msgid "Custom Heading"
+msgstr ""
+
+#: templates/tabs/theming-settings-fields.php:68
+msgid "Custom Heading Size"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:9
+msgid "Theming settings"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:17
+msgid "Hero background image"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:30
+#: templates/tabs/theming-settings.php:71
+msgid "Select an image"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:58
+msgid "Custom fallback image"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:95
+msgid "Visa bilar exklusive moms"
+msgstr ""
+
+#: templates/tabs/theming-settings.php:106
+msgid "Use tight layout for search field and filters"
+msgstr ""
